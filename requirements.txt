@@ -1,0 +1,7 @@
+curl_cffi
+asyncio
+beautifulsoup4
+pandas
+openpyxl
+streamlit
+python-docx
